@@ -6,10 +6,11 @@
     <h1>
     Natual Photography
     </h1>
+    <p>
     <hr>
     This is website of natural Photography . 
     <h4>
-      <hr>
+    <hr>
       language use for make this website
     </h4>
     <hr>
