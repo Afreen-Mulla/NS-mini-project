@@ -4,7 +4,7 @@
   
   <body>
     <h1>
-    Natual Photography
+    Natural Photography
     </h1>
     <p>
     <hr>
